@@ -1,0 +1,7 @@
+[Thu Jan 18 06:04:20 2024] Method: read_lines, Exception: Error reading file: [Errno 2] No such file or directory: 'example.txt'
+[Thu Jan 18 06:07:42 2024] Method: read_lines, Result: Success
+[Thu Jan 18 06:07:42 2024] Method: count_words, Result: Success
+[Thu Jan 18 06:07:42 2024] Method: write_data, Result: Success
+[Thu Jan 18 06:09:48 2024] Method: read_lines, Result: Success
+[Thu Jan 18 06:09:48 2024] Method: count_words, Result: Success
+[Thu Jan 18 06:09:48 2024] Method: write_data, Result: Success
